@@ -16,7 +16,12 @@ We will use [**Open Weather API**](https://openweathermap.org/current) to get cu
 
 # Task
 
-Create a project, that will pull the weather data about cities and will store it in the database every two minutes.
+Create a project, that will pull the weather information of cities and will store it in the database every two minutes.
+
+# Data to store
+
+- Store the data about cities in the database 
+- Store the data about weather information in the database every two minutes
 
 # Rest API Endpoints
 
