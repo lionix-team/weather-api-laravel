@@ -16,7 +16,7 @@ We will use [**Open Weather API**](https://openweathermap.org/current) to get cu
 
 # Task
 
-Create a project, that will pull the weather information of cities based in latitude/longitude and will store it in the database every two minutes.
+Create a project, that will pull the weather information of cities based on latitude/longitude and will store it in the database every two minutes.
 
 # Data to store
 
