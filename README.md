@@ -10,13 +10,13 @@ We will use [**Open Weather API**](https://openweathermap.org/current) to get cu
 
 - **API Link**: [https://openweathermap.org/current](https://openweathermap.org/current)
 - **API Key**: `1077481787381398496a922389d0eea2` 
-- **Technology: Laravel**
+- **Technology: Laravel 9.x**
 
 ---
 
 # Task
 
-Create a project, that will pull the weather information of cities and will store it in the database every two minutes.
+Create a project, that will pull the weather information of cities based in latitude/longitude and will store it in the database every two minutes.
 
 # Data to store
 
